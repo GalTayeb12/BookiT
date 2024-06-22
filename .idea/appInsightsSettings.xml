@@ -8,7 +8,7 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="com.technifysoft.bookapp" />
+                  <option name="appId" value="com.NewBookiT.BookiT" />
                   <option name="mobileSdkAppId" value="1:1058922599457:android:9536a5740627c632ac7f60" />
                   <option name="projectId" value="bookit-922fb" />
                   <option name="projectNumber" value="1058922599457" />

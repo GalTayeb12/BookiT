@@ -65,6 +65,7 @@ dependencies {
     implementation 'com.google.firebase:firebase-firestore'
     implementation platform('com.google.firebase:firebase-bom:32.4.0')
     implementation 'com.google.firebase:firebase-storage'
+    testImplementation 'org.robolectric:robolectric:4.4'
 
     //PDF view library
     implementation 'com.github.barteksc:android-pdf-viewer:2.8.2'
